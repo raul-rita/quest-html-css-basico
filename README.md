@@ -12,5 +12,4 @@ Foram utilizadas no projeto as seguintes tecnologias e ferramentas:
 * CSS
 
  <h2>Imagens do site</h2>
-![image](https://user-images.githubusercontent.com/93088559/167713581-023d0365-58cf-4b49-b8f6-b2e312cd19f9.png)
-
+ <img src="https://user-images.githubusercontent.com/93088559/167714105-c302a682-926c-4d74-8f4d-9b2e9971baab.png" />
